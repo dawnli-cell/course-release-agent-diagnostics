@@ -72,3 +72,7 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 
 **Course Release Agent Diagnostics: Observability**
 - **Course Release Agent Diagnostics:** Capture on the server (`POST /v1/errors/capture`); scrub PII before sending. Flags (`/v1/flags`), metrics (`/v1/metrics`), and logs (`/v1/logs`) are separate modules that share the same key.
+
+## Further reading
+
+- [Node.js Notification Failure Reconstruction — Error Capture, Retention, and Backend Choice](docs/node-js-notification-failure-reconstruction-error-opozp4.md)
